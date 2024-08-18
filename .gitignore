@@ -1,0 +1,16 @@
+/vendor/
+/node_modules/
+.env
+.env.*.backup
+/public/hot
+/public/storage
+/storage/*.key
+/storage/*.log
+/storage/app/public
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/storage/logs
+/bootstrap/cache
+composer.phar
